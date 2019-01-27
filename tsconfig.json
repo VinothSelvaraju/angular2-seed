@@ -14,7 +14,8 @@
     "lib": ["es6", "dom"]
   },
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "@types/geojson/index.d.ts"
   ],
   "awesomeTypescriptLoaderOptions": {
     "useWebpackText": true
